@@ -1,6 +1,3 @@
-PhoneGap-Start
----
+Author: Floris Otto
 
-A starting point for PhoneGap apps.
-
-To get started: fork this repo, modify the config.xml to match your details, and get building!
+Dit wordt de readme file van Obymobi.
